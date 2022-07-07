@@ -9,8 +9,10 @@ Users can change most DNN model parameters, but care must be taken when changing
 ##### *http://github.com/sangmosung/path-loss_simulator.git
 
 # Installation
+TBU
 
-# TBU
+# Contributors
+TBU
 
 # Contact
 
