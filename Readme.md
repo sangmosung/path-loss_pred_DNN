@@ -1,4 +1,4 @@
-# DNN model for path loss prediction v1.1 2022-06-13
+# DNN model for path loss prediction v1.1
 
 This deep neural network model is designed to predict the path loss of Vehicle Communication, 
 and the dataset required for model learning is obtained through the ns3-SUMO integrated simulation testbed*.
@@ -15,3 +15,7 @@ Users can change most DNN model parameters, but care must be taken when changing
 # Contact
 
 Sangmo Sung, UNLab, smsung@hanyang.ac.kr
+
+# Last update
+
+2022.07.07
